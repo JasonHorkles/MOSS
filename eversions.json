@@ -1,0 +1,31 @@
+{
+  "embed": {
+    "color": 15285048,
+    "description": "EssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software running the following Minecraft versions:\n• ✅ **1.16.5** - EssentialsX actively develops against and supports these versions.\n• ⚠️ **1.8.8**, **1.9.4**, **1.10.2**, **1.11.2**, **1.12.2**, **1.13.2**, **1.14.4**, and **1.15.2** - these versions are still supported, but are not a priority for us, and may be dropped in a future release.\n\nEssentialsX **does not support** the following Minecraft versions and server software:",
+    "footer": {
+      "text": "We will not be able to provide support if you use any of the unsupported software or versions listed above."
+    },
+    "fields": [
+      {
+        "name": "🛑 Mohist",
+        "value": "• Do not use Mohist. Mohist tricks users into deleting official EssentialsX jars and installing unofficial modified software. [Click here for more information.](https://essentialsx.net/do-not-use-mohist.html)"
+      },
+      {
+        "name": "🛑 Akarin, Yatopia and some other \"high performance\" Paper forks",
+        "value": "• These servers include **dangerous non-standard behavior**, which can not only impact EssentialsX's functionality but also cause damage to your worlds. If you *need* a high-performance fork, you should consider using [Tuinity](https://github.com/Tuinity/Tuinity/)."
+      },
+      {
+        "name": "🛑 Magma",
+        "value": "• Magma modifies EssentialsX bytecode at runtime and includes hacks to fix other bugs in Magma. If you encounter an issue with EssentialsX on Magma, please contact them for support."
+      },
+      {
+        "name": "🛑 Other Forge/Fabric hybrid server software, including Cauldron, Thermos, CatServer, etc",
+        "value": "• The Bukkit API does not properly support mods, and using Bukkit plugins on modded Forge/Fabric servers will cause significant problems.\nFor Forge servers, use [**SpongeForge**](https://www.spongepowered.org/downloads/spongeforge) with [**Nucleus**](https://nucleuspowered.org) for plugin support and a complete Essentials replacement, or consider a mod designed for Forge such as [**FTB Essentials**](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)."
+      },
+      {
+        "name": "🛑 1.7.10 or below",
+        "value": "• You should use the original [**Essentials**](https://dev.bukkit.org/projects/essentials)."
+      }
+    ]
+  }
+}
