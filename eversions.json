@@ -1,7 +1,7 @@
 {
   "embed": {
     "color": 15285048,
-    "description": "EssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software running the following Minecraft versions:\n• ✅ **1.16.5** - EssentialsX actively develops against and supports these versions.\n• ⚠️ **1.8.8**, **1.9.4**, **1.10.2**, **1.11.2**, **1.12.2**, **1.13.2**, **1.14.4**, and **1.15.2** - these versions are still supported, but are not a priority for us, and may be dropped in a future release.\n\nEssentialsX **does not support** the following Minecraft versions and server software:",
+    "description": "EssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software running the following Minecraft versions:\n• ✅ **1.16.5** and **1.17** - EssentialsX actively develops against and supports these versions.\n• ⚠️ **1.8.8**, **1.9.4**, **1.10.2**, **1.11.2**, **1.12.2**, **1.13.2**, **1.14.4**, and **1.15.2** - these versions are still supported, but are not a priority for us, and may be dropped in a future release.\n\nEssentialsX **does not support** the following Minecraft versions and server software:",
     "footer": {
       "text": "We will not be able to provide support if you use any of the unsupported software or versions listed above."
     },
