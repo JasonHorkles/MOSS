@@ -20,7 +20,7 @@
       },
       {
         "name": "• 🛑 Other Forge/Bukkit hybrid server software, including Cauldron, Thermos, CatServer, etc",
-        "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [**SpongeForge**](https://www.spongepowered.org/downloads/spongeforge) with [**Nucleus**](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods)."
+        "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) with [Nucleus](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods)."
       },
       {
         "name": "• 🛑 1.7.10 or below",
