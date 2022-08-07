@@ -7,16 +7,20 @@
     },
     "fields": [
       {
-        "name": "• 🛑 \"Ultra-performance\" Paper forks",
-        "value": "Including Akarin, Yatopia, and similar projects - these often perform non-standard behavior and can break your worlds and installed plugins."
-      },
-      {
         "name": "• 🛑 Mohist",
-        "value": "[The Mohist project is known to be sketchy, and has, in the past, tricked users into deleting official EssentialsX jars and installing an unofficial build.](https://essentialsx.net/do-not-use-mohist.html) We cannot guarantee the safety or functionality of unofficial builds of EssentialsX; You should avoid using Mohist where possible."
+        "value": "Do not use Mohist. Mohist has previously tricked users into deleting official EssentialsX jars and installing unofficial modified software. [Click here for more information.](https://essentialsx.net/do-not-use-mohist.html)"
       },
       {
-        "name": "• 🛑 Other Forge/Bukkit hybrid server software, including Cauldron, Thermos, Magma, CatServer, etc",
-        "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor modded servers, use [**SpongeForge**](https://www.spongepowered.org/downloads/spongeforge) with [**Nucleus**](https://nucleuspowered.org), or or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods)."
+        "name": "• 🛑 Magma",
+        "value": "Magma modifies the EssentialsX bytecode at runtime and includes hacks to fix other bugs within Magma. If you encounter an issue with EssentialsX on Magma, please contact them for support."
+      },
+      {
+        "name": "• 🛑 \"Ultra-performance\" Paper forks",
+        "value": "This includes Akarin, Yatopia, and similar projects - these often perform non-standard behavior and can break your worlds and installed plugins."
+      },
+      {
+        "name": "• 🛑 Other Forge/Bukkit hybrid server software, including Cauldron, Thermos, CatServer, etc",
+        "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [**SpongeForge**](https://www.spongepowered.org/downloads/spongeforge) with [**Nucleus**](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods)."
       },
       {
         "name": "• 🛑 1.7.10 or below",
