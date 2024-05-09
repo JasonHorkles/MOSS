@@ -1,25 +1,25 @@
 {
   "embed": {
     "color": 15285048,
-    "description": "EssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software running the following Minecraft versions:\n• ✅ **1.20.4** and **1.19.4** - EssentialsX actively develops against and supports these versions.\n• ⚠️ **1.8.8**, **1.9.4**, **1.10.2**, **1.11.2**, **1.12.2**, **1.13.2**, **1.14.4**, **1.15.2**, **1.16.5**, **1.17.1**, and **1.18.2** - these versions are still supported, but are not a priority for us, and may be dropped in a future release.\n\nEssentialsX **does not support** the following Minecraft versions and server software:",
+    "description": "EssentialsX officially supports the **CraftBukkit**, **Spigot**, and [**Paper (recommended)**](https://papermc.io/) server software running the following Minecraft versions:\n• ✅ **1.20.4** and **1.19.4** - Actively developed and supported versions\n• ⚠️ **1.8.8 → 1.18.2** - Still supported, but not a priority and may be dropped in a future release\n\nEssentialsX **does not support** the following Minecraft versions and server software:",
     "footer": {
       "text": "We will not be able to provide support if you use any of the unsupported software or versions listed above."
     },
     "fields": [
       {
+        "name": "• ℹ️ 1.20.5 / 1.20.6",
+        "value": "**1.20.5/6 are not supported yet. Do not attempt to compile and use current versions of EssentialsX on such versions - you may lose userdata.**"
+      },
+      {
         "name": "• ℹ️ Folia",
-        "value": "**Folia is not supported yet.** We are working on proper Folia support.\n**Do not attempt to use current versions of EssentialsX on Folia or forks of it - you may lose userdata.**"
+        "value": "**Folia is not supported yet. Do not attempt to use current versions of EssentialsX on Folia or forks of it - you may lose userdata.**"
       },
       {
-        "name": "• 🛑 \"Ultra-performance\" Paper forks",
-        "value": "This includes Akarin, Yatopia, and similar projects - these often perform non-standard behavior and can break your worlds and installed plugins."
+        "name": "• 🛑 \"Ultra-performance\" Paper forks (Akarin, Yatopia, etc.)",
+        "value": "These often perform non-standard behavior and can break your worlds and installed plugins."
       },
       {
-        "name": "• 🛑 Mohist",
-        "value": "[The Mohist project is known to be sketchy, and has, in the past, tricked users into deleting official EssentialsX jars and installing an unofficial build.](https://essentialsx.net/do-not-use-mohist.html)\nWe cannot guarantee the safety or functionality of unofficial builds of EssentialsX; you should avoid using Mohist where possible."
-      },
-      {
-        "name": "• 🛑 Other Forge/Bukkit hybrid servers including Cauldron, Thermos, Magma, CatServer, etc",
+        "name": "• 🛑 Forge/Bukkit hybrid servers (Mohist, Cauldron, Thermos, Magma, CatServer, etc.)",
         "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) with [Nucleus](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods)."
       },
       {
