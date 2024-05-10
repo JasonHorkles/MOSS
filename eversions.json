@@ -22,13 +22,13 @@
                     "inline": true
                 },
                 {
-                    "name": "🛑 \"Ultra-performance\" Paper forks (Akarin, Yatopia, etc.)",
-                    "value": "These often perform non-standard behavior and can break your worlds and installed plugins.",
+                    "name": "🛑 Forge/Bukkit hybrid servers (Mohist, Magma, Arclight, Cauldron, Thermos, CatServer, etc.)",
+                    "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) with [Nucleus](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods).",
                     "inline": false
                 },
                 {
-                    "name": "🛑 Forge/Bukkit hybrid servers (Mohist, Magma, Arclight, Cauldron, Thermos, CatServer, etc.)",
-                    "value": "EssentialsX is built for the Bukkit API, which does not properly support mods.\nFor Forge servers, use [SpongeForge](https://www.spongepowered.org/downloads/spongeforge) with [Nucleus](https://nucleuspowered.org), or an alternative mod for [Forge/Fabric](https://www.curseforge.com/minecraft/mc-mods).",
+                    "name": "🛑 \"Ultra-performance\" Paper forks (Akarin, Yatopia, etc.)",
+                    "value": "These often perform non-standard behavior and can break your worlds and installed plugins.",
                     "inline": false
                 },
                 {
